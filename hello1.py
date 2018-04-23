@@ -1,5 +1,5 @@
-xujignya
-hahaha
+ppppppppp
+jjjjjjjjj
 def joiner_badge_traffic(input_files):
     outputs = dict()
     assert "/traffic/badge/raw" in input_files, "Must have /traffic/badge/raw folder in inputs"
